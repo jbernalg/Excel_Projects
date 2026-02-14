@@ -1,5 +1,7 @@
 # 📊 Dashboard Ejecutivo de Análisis de Ventas en Excel
 
+![Vista del Dashboard](./images/presentacion_dashboard.png)
+
 ## 📌 Descripción del Proyecto
 
 Este proyecto consiste en el desarrollo de un Dashboard Ejecutivo de Ventas en Excel, diseñado para analizar el desempeño comercial de una empresa mediante indicadores clave de rendimiento (KPIs), gráficos dinámicos y visualización orientada a la toma de decisiones.
@@ -62,10 +64,6 @@ Se implementó:
 
 Esto garantiza integridad del diseño sin limitar la interacción del usuario.
 
----
 
-## 📊 Vista Previa
-
-![Vista del Dashboard](./images/presentacion_dashboard.png)
 
 

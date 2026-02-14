@@ -2,7 +2,7 @@
 
 ## 📌 Descripción del Proyecto
 
-Este proyecto consiste en el desarrollo de un Dashboard Ejecutivo de Ventas en Microsoft Excel, diseñado para analizar el desempeño comercial de una empresa mediante indicadores clave de rendimiento (KPIs), gráficos dinámicos y visualización profesional orientada a la toma de decisiones.
+Este proyecto consiste en el desarrollo de un Dashboard Ejecutivo de Ventas en Excel, diseñado para analizar el desempeño comercial de una empresa mediante indicadores clave de rendimiento (KPIs), gráficos dinámicos y visualización orientada a la toma de decisiones.
 
 El dashboard permite monitorear métricas estratégicas como ventas totales, ticket promedio y cumplimiento de metas, integrando segmentadores y tablas dinámicas para análisis interactivo.
 
@@ -14,8 +14,6 @@ El dashboard permite monitorear métricas estratégicas como ventas totales, tic
 - Implementar KPIs dinámicos vinculados a datos reales.
 - Crear indicadores visuales para facilitar la interpretación rápida.
 - Automatizar cálculos mediante fórmulas avanzadas.
-- Proteger la estructura del dashboard sin afectar la interactividad.
-- Aplicar buenas prácticas de diseño y organización de datos.
 
 ---
 
@@ -26,25 +24,7 @@ El dashboard permite monitorear métricas estratégicas como ventas totales, tic
   - Ventas Totales
   - Ticket Promedio
   - % Cumplimiento de Meta
-- Indicadores visuales (flechas / semáforos) basados en lógica condicional.
 - Segmentadores para filtrado interactivo.
-- Formas vinculadas a celdas para mostrar métricas dinámicamente.
-- Protección de hoja sin afectar gráficos dinámicos.
-- Diseño limpio con formato profesional y jerarquía visual.
-
----
-
-## 🧮 Fórmulas y Conceptos Utilizados
-
-- PROMEDIO()
-- SUMA()
-- SUMAR.SI.CONJUNTO()
-- Referencias estructuradas con Tablas (tbl_Ventas)
-- Fórmulas condicionales para indicadores visuales
-- Formato condicional
-- Celdas auxiliares para lógica de KPIs
-- Vinculación de formas a celdas
-- Protección de hoja con objetos desbloqueados
 
 ---
 
@@ -54,7 +34,6 @@ El dashboard permite monitorear métricas estratégicas como ventas totales, tic
 - Separación entre datos, cálculos y visualización
 - Uso de tablas estructuradas
 - Diseño de dashboards ejecutivos
-- Automatización sin uso de VBA
 - Control de interacción del usuario
 - Visualización orientada a negocio
 

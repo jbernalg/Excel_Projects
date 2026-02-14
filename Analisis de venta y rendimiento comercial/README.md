@@ -87,6 +87,6 @@ Esto garantiza integridad del diseño sin limitar la interacción del usuario.
 
 ## 📊 Vista Previa
 
-![Vista del Dashboard](./presentacion_dashboard.png)
+![Vista del Dashboard](./images/presentacion_dashboard.png)
 
 

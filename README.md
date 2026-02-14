@@ -1,19 +1,25 @@
-# Excel Projects Portfolio
+# Portafolio de Proyecto en Excel
 
-This repository contains professional Excel projects including dashboards, KPI tracking systems, data analysis, and automation tools.
+Este repositorio reúne proyectos profesionales desarrollados en Excel, incluyendo dashboards interactivos, sistemas de seguimiento de KPIs y herramientas de análisis orientadas a la toma de decisiones.
 
-## Skills Demonstrated
+## Habilidades Demostradas
 
-- Advanced Excel Formulas (SUMIFS, INDEX, MATCH, XLOOKUP)
-- Dynamic Dashboards
-- Pivot Tables
-- Data Validation
-- KPI Indicators
-- Conditional Formatting
-- VBA (if applicable)
-- Data Cleaning
+- Creación de dashboards dinámicos
+- Tablas dinámicas y segmentadores
+- Diseño de indicadores KPI
+- Fórmulas avanzadas (SUMIFS, INDEX, MATCH, XLOOKUP)
+- Validación de datos
+- Formato condicional
+- Protección de hojas y estructura
+- Diseño visual orientado a negocio
 
- ## Projects
+## Proyectos
 
-- Sales Dashboard → [View Project](./Sales_Dashboard_Project)
-- Inventory Control Dashboard → [View Project](./Inventory_Project) 
+- Dashboard de Ventas → [Ver Proyecto](./Sales_Dashboard_Project)
+- Control de Inventario → [Ver Proyecto](./Inventory_Project)
+- Sistema de Automatización → [Ver Proyecto](./Automation_Project)
+
+## Sobre mí
+
+Apasionado por el análisis de datos y la visualización en Excel, con experiencia en la creación de dashboards interactivos y soluciones orientadas a negocio.
+

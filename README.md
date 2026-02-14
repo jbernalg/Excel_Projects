@@ -1,15 +1,19 @@
-# Excel_Projects
+# Excel Projects Portfolio
 
-Este repositorio contiene una colección de proyectos desarrollados en Microsoft Excel enfocados en análisis de datos, modelado financiero y creación de dashboards ejecutivos.
+This repository contains professional Excel projects including dashboards, KPI tracking systems, data analysis, and automation tools.
 
-Cada proyecto demuestra habilidades en:
+## Skills Demonstrated
 
-- Tablas dinámicas
+- Advanced Excel Formulas (SUMIFS, INDEX, MATCH, XLOOKUP)
+- Dynamic Dashboards
+- Pivot Tables
+- Data Validation
+- KPI Indicators
+- Conditional Formatting
+- VBA (if applicable)
+- Data Cleaning
 
-- Fórmulas avanzadas
+ ## Projects
 
-- Automatización
-
-- Diseño de dashboards
-
-- Análisis de negocio
+- Sales Dashboard → [View Project](./Sales_Dashboard_Project)
+- Inventory Control Dashboard → [View Project](./Inventory_Project) 
